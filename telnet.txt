@@ -1,0 +1,41 @@
+version:
+show version
+display version
+
+pagedown:
+-more-
+- more -
+-More-
+- More -
+
+
+class:cisco
+identity:Cisco&&C3750
+command:
+show interface
+quit
+JKEND
+
+class:h3c
+identity:H3C&&Hangzhou
+command:
+display interface
+quit
+JKEND
+
+class:huawei
+identity:Huawei&&5.130&&Versatile
+command:
+display interface
+module:system-view
+q
+quit
+JKEND
+
+class:zhongxing
+identity:ZTE Corporation
+command:
+show vlan
+exit
+JKEND
+
