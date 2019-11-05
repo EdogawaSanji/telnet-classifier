@@ -3,7 +3,6 @@
 #include <assert.h>
 #include <string>
 #include <cstdlib>
-
 #include "switch.h"
 
 #define filepath    "./telnet.txt"
