@@ -9,7 +9,7 @@
 #include <map>
 #include <stack>
 
-enum TypeOFCommand{
+enum TypeOFCommand{//command type
     COMMAND_EX,
     COMMAND_MAIN
 };
